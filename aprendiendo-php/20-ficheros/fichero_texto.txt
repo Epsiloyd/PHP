@@ -1,0 +1,3 @@
+Hola soy un archivo de texto 
+y esta es otra linea de texto 
+si que si animo si se puede Soy un texto escrito desde phpSoy un texto escrito desde php***Soy un texto escrito desde php***
